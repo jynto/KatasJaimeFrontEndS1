@@ -1,3 +1,2 @@
 # KatasJaimeFrontEndS1
-
-Katas realizadas para Launch X 
+Katas realizadas para Launch X
